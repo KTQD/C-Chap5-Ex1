@@ -1,6 +1,5 @@
 ## Factorial Calculation with a Loop:
-Write a C program to:
-- Calculate the factorial of a given number using a loop. 
+Write a C program to calculate the factorial of a given number using a loop. 
 - Prompt the user to enter a positive integer and then compute its factorial using a loop. 
 - Display the factorial as the output.
 ## Run and Test
